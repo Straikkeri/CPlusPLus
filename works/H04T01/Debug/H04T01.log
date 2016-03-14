@@ -1,0 +1,7 @@
+﻿  main.cpp
+z:\olio-ohjelmointi_2\olio2\h04t01\main.cpp(11): warning C4305: 'argument': truncation from 'double' to 'float'
+  KetjuHotelli.cpp
+  KaupunginHotelli.cpp
+  Hotelli.cpp
+  Generating Code...
+  H04T01.vcxproj -> Z:\olio-ohjelmointi_2\Olio2\Debug\H04T01.exe

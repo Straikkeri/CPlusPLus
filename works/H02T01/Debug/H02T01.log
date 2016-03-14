@@ -1,0 +1,13 @@
+﻿  points-main.cpp
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(36): warning C4018: '<': signed/unsigned mismatch
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(40): warning C4018: '<': signed/unsigned mismatch
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(40): warning C4552: '+': operator has no effect; expected operator with side-effect
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(44): warning C4305: 'return': truncation from 'double' to 'float'
+  calc_distance.cpp
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(36): warning C4018: '<': signed/unsigned mismatch
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(40): warning C4018: '<': signed/unsigned mismatch
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(40): warning C4552: '+': operator has no effect; expected operator with side-effect
+z:\olio-ohjelmointi_2\olio2\h02t01\calc_distance.cpp(44): warning C4305: 'return': truncation from 'double' to 'float'
+  Generating Code...
+points-main.obj : error LNK2005: "public: float __thiscall Point::calc_distance(void)" (?calc_distance@Point@@QAEMXZ) already defined in calc_distance.obj
+Z:\olio-ohjelmointi_2\Olio2\Debug\H02T01.exe : fatal error LNK1169: one or more multiply defined symbols found
